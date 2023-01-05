@@ -1,6 +1,6 @@
 {
     "tg": {
-        "token": " ",
+        "token": "",
         "options": {
             "apiRoot": "https://api.telegram.org",
             "webhookReply": true,
